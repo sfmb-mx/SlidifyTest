@@ -21,4 +21,10 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Testing the properties of the Slidify
+Testing the properties of the Slidify. Making and upgrade to the slides.
+
+--- .class #id
+
+## Slide 3 ##
+
+Some test for...
