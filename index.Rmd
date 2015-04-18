@@ -28,3 +28,13 @@ Testing the properties of the Slidify. Making and upgrade to the slides.
 ## Slide 3 ##
 
 Some test for...
+
+--- .class #id
+
+## Slide 4 ##
+
+Some R code
+
+```{r}
+print(pi)
+```
